@@ -1,4 +1,4 @@
-### Hola, I'm Pradhyumna Singh Rathore  👋
+### Hola, I'm [Pradhyumna Singh Rathore](http://pradhyumnasinghrathore.live/)  👋
 
 - 🔭 I’m currently working on ML and Web Dev
 - 🌱 I’m currently learning Web dev
