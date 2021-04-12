@@ -10,10 +10,10 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=pradhyumna6459&label=Views&color=blue&style=plastic" alt="Pradhyumna Singh Rathore" /> </p>
 <br />
 
-  
+ - 🌍 I’m from **Indore (INDIA)**
 - 🔭 I’m currently working on ML and Web Dev 
 - 🌱 I’m currently learning Web dev
-
+- 📫 Reach out to me at **pradhyumnarathore@gmail.com**
 - ⚡ Fun fact: “I know it's crazy, but follow 21/90 rule …”
 <br/>
 
