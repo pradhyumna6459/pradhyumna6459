@@ -1,5 +1,5 @@
 
-### Hola, I'm [Pradhyumna Singh Rathore](http://pradhyumnasinghrathore.live/)  👋
+### Hola, I'm [Pradhyumna Singh Rathore](https://pradhyumna6459.github.io/sample-demo-portfolio-maker/)  👋
 <br />
 <p align="center">
 	<a href="https://www.linkedin.com/in/pradhyumna-singh-rathore-b6a767177/"><img src="https://img.icons8.com/metro/26/000000/linkedin.png" alt="LinkedIn"/></a>
