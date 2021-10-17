@@ -18,4 +18,5 @@
 <br/>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhyumna6459&theme=light"/>
 <img src="https://github-readme-stats.vercel.app/api?username=pradhyumna6459&&show_icons=true&title_color=#35E3FD&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
